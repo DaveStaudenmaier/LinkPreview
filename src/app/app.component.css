@@ -1,0 +1,33 @@
+.container {
+  padding: 10px;
+}
+
+.preview {
+  width: 350px;
+  background-color:#bdbdbd;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+
+.image {
+  width: 350px;
+}
+
+.preview-text {
+  padding: 10px;
+}
+
+.hyperlink {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.preview-button {
+  margin-right: 10px;
+}
