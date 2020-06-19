@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-This demo project will reach out to get a link preview for a URL you enter. 
+This demo project shows how you can use linkpreview.net to get web-site metadata which you can display for the user based on a URL they entered. 
 
 See my [blog](http://dev-reboot.com/link-preview) for an explanation.
 
