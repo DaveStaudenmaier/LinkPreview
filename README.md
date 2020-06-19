@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
+This demo project will reach out to get a link preview for a URL you enter. 
+
+See my [blog](http://dev-reboot.com/link-preview) for an explanation.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
